@@ -13,7 +13,7 @@ You need a running Kubernetes cluster to use Helm. For local Kubernetes with Col
 colima start --with-kubernetes
  ```
 
-Basic Helm Commands
+## Basic Helm Commands
 
 Add the Bitnami repository:
 ```
