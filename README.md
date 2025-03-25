@@ -34,6 +34,12 @@ List installed releases:
 ```
 helm list
 ```
+Accessing a deployed service (e.g., Nginx): To access the Nginx service deployed via Helm locally:
+```
+kubectl port-forward svc/my-release-nginx 8080:80
+```
+
+Now you can open http://localhost:8080 in your browser to see Nginx.
 
 Uninstall a release:
 ```
