@@ -1,7 +1,7 @@
 # helm-journey
 
-- **Helm**: [Helm: https://www.youtube.com/watch?v=kJscDZfHXrQ](https://www.youtube.com/watch?v=kJscDZfHXrQ) 🎥
-- **ArtifactHub**: [ArtifactHUB: https://artifacthub.io/](https://artifacthub.io/) 🔗
+- **Helm**: [Helm: https://www.youtube.com/watch?v=kJscDZfHXrQ](https://www.youtube.com/watch?v=kJscDZfHXrQ)
+- **ArtifactHub**: [ArtifactHUB: https://artifacthub.io/](https://artifacthub.io/)
 
 ## Description
 Helm is a package manager for Kubernetes that simplifies deploying and managing applications using pre-configured charts. Below are some basic commands to get started with Helm.
