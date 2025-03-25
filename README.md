@@ -7,7 +7,7 @@ Helm is a package manager for Kubernetes that simplifies deploying and managing 
 - **Chart**: A Helm **chart** is a packaged application (like a Docker image).
 - **Release**: A Helm **release** is an instance of a chart that’s deployed and running (like a Docker container).
 
-
+## Prerequisites
 You need a running Kubernetes cluster to use Helm. For local Kubernetes with Colima, use the following command:
 ``` 
 colima start --with-kubernetes
