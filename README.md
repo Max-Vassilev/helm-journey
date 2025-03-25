@@ -25,9 +25,9 @@ List Helm repositories:
 helm repo list
 ```
 
-Install a chart (e.g., WordPress):
+Install a chart (e.g., Nginx):
 ```
-helm install my-release oci://registry-1.docker.io/bitnamicharts/wordpress
+helm install my-release oci://registry-1.docker.io/bitnamicharts/nginx
 ```
 
 List installed releases:
